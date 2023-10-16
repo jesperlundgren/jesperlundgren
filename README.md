@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there!
+- 🔭 I'm currently working on my personal portfolio.
+- 🌱 I'm currently learning information security and research methods.
+- ⚡ Fun fact: I once played a bridge tournament with my grandmother. 
 
 <!--
 **jesperlundgren/jesperlundgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
